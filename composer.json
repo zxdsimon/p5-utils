@@ -1,0 +1,24 @@
+{
+    "name": "zxdsimon/p5-utils",
+	"version": "1.0.1",
+    "description": "test by simon",
+    "keywords": ["p5-utils"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        
+    },
+    "autoload-dev": {
+        
+    },
+    "scripts": {},
+    "config": {
+        
+    }
+}
